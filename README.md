@@ -15,6 +15,7 @@ Pull requests power the open source community. Through this process,
 anyone can fork a repo, make changes and submit a pull request. Instead of
 the owner working on their codebase alone, _anyone_ can contribute: tests,
 documentation fixes, new features, awesome layout and graphics, etc...
+tests 
 
 There are some vocabulary words that we need to keep in mind in order to make
 sure that we're all on the same page.
